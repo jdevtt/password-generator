@@ -37,14 +37,9 @@ Follow the prompts to:
 - This is a basic implementation and may not be suitable for storing highly sensitive information
 - For production use, consider implementing additional security measures
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Disclaimer
 
-This tool is for educational purposes only. Use at your own risk. The author is not responsible for any misuse or damage caused by this program.
